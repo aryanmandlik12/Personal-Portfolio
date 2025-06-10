@@ -46,7 +46,7 @@ const Hero = () => {
               Get In Touch
             </a>
             <a
-              href="/AryanResume.pdf"
+              href="/FinalResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-slate-300 text-slate-700 rounded-full font-semibold hover:border-orange-600 hover:text-orange-600 transition-all duration-200 flex items-center gap-2"

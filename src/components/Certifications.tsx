@@ -24,7 +24,7 @@ const Certifications = () => {
       description: "Bolstered my programming skills with comprehensive Python training. This certification demonstrates my ability to develop efficient and reliable code, essential for various software development tasks.",
       skills: ["Python Programming", "Software Development", "Code Optimization", "Problem Solving"],
       color: "from-orange-600 to-slate-600",
-      certificateLink: "https://vityarthi.com/certificate/3my9WeCnqVzQ"
+      certificateLink: "/VityarthiCerti2.jpg"
     },
     {
       title: "Microsoft PowerPoint From Beginner to Advanced",
@@ -48,7 +48,7 @@ const Certifications = () => {
       description: "Enhanced my front-end development skills with comprehensive web development training. This certification solidifies my ability to create interactive and responsive web applications.",
       skills: ["Computer Vision"],
       color: "from-orange-500 to-slate-500",
-      certificateLink: "https://vityarthi.com/certificate/13bd7f6126"
+      certificateLink: "/VityarthiCerti1.jpg"
     }
   ];
 
