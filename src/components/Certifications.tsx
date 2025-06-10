@@ -8,7 +8,7 @@ const Certifications = () => {
       description: "Gained hands-on experience in Python for data analysis, visualization, and machine learning using essential libraries and real-world projects.",
       skills: ["Python", "Data Analysis", "Machine Learning", "Data Visualization"],
       color: "from-orange-500 to-orange-600",
-      certificateLink: "https://www.udemy.com/"
+      certificateLink: "https://www.udemy.com/certificate/UC-32ba8440-46f6-4e13-bd8c-fc465690ef9f/"
     },
     {
       title: "ChatGPT & Artificial Intelligence for Microsoft Excel",
@@ -16,7 +16,7 @@ const Certifications = () => {
       description: "Acquired proficiency in leveraging AI for data analysis and automation. This certification complements my analytical skills and enhances my ability to streamline data-related tasks, significantly improving my efficiency in data manipulation and interpretation.",
       skills: ["AI Integration", "Excel Automation", "Data Analysis", "Process Optimization"],
       color: "from-slate-500 to-slate-600",
-      certificateLink: "https://www.udemy.com/"
+      certificateLink: "https://www.udemy.com/certificate/UC-33930313-ee3e-4f34-97b0-7cf0ac8861a3/"
     },
     {
       title: "Python Essentials",
@@ -24,7 +24,7 @@ const Certifications = () => {
       description: "Bolstered my programming skills with comprehensive Python training. This certification demonstrates my ability to develop efficient and reliable code, essential for various software development tasks.",
       skills: ["Python Programming", "Software Development", "Code Optimization", "Problem Solving"],
       color: "from-orange-600 to-slate-600",
-      certificateLink: "https://www.udemy.com/"
+      certificateLink: "https://vityarthi.com/certificate/3my9WeCnqVzQ"
     },
     {
       title: "Microsoft PowerPoint From Beginner to Advanced",
@@ -32,7 +32,7 @@ const Certifications = () => {
       description: "Honed my presentation design and visual communication skills. This training directly enhances my ability to create compelling presentations, a valuable asset in both educational and professional endeavors.",
       skills: ["Presentation Design", "Visual Communication", "Content Creation", "Professional Presentations"],
       color: "from-slate-600 to-orange-500",
-      certificateLink: "https://www.udemy.com/"
+      certificateLink: "https://www.udemy.com/certificate/UC-bc3d22e4-b76c-48fc-b07c-d4195c5ba759/"
     },
     {
       title: "HTML5, CSS3, & JavaScript Course",
@@ -40,7 +40,15 @@ const Certifications = () => {
       description: "Enhanced my front-end development skills with comprehensive web development training. This certification solidifies my ability to create interactive and responsive web applications.",
       skills: ["HTML5", "CSS3", "JavaScript", "Web Development", "Responsive Design"],
       color: "from-orange-500 to-slate-500",
-      certificateLink: "https://www.udemy.com/"
+      certificateLink: "https://www.udemy.com/certificate/UC-28714112-e463-4b00-a1f0-a4a1a7998de1/"
+    },
+    {
+      title: "Computer Vision",
+      provider: "VITyarthi",
+      description: "Enhanced my front-end development skills with comprehensive web development training. This certification solidifies my ability to create interactive and responsive web applications.",
+      skills: ["Computer Vision"],
+      color: "from-orange-500 to-slate-500",
+      certificateLink: "https://vityarthi.com/certificate/13bd7f6126"
     }
   ];
 

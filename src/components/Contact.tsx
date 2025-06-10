@@ -117,7 +117,7 @@ const Contact = () => {
                 <Mail className="w-24 h-24 text-orange-500" />
               </div>
               <blockquote className="italic text-slate-600 text-center text-lg max-w-xs">
-                "I love astha and i dont want to stay with nikhil and prince in sehore."
+                "Turning data into decisions, and algorithms into action."
                 <br />
                 <span className="block mt-2 text-slate-400 text-sm">– Aryan Mandlik</span>
               </blockquote>

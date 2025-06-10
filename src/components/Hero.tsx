@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-40 h-40 mx-auto rounded-full overflow-hidden shadow-2xl border-4 border-orange-200">
               <img 
-                src="" 
+                src="./PROFILEPIC.jpg" 
                 alt="AM" 
                 className="w-full h-full object-cover"
               />
