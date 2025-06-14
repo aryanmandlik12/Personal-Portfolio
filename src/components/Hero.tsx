@@ -3,7 +3,7 @@ import { ChevronDown, Download } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
+<section className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16">
 
       <div className="absolute inset-0 bg-gradient-to-br from-ivory via-slate-50 to-orange-50"></div>
       <div className="absolute top-20 left-10 w-72 h-72 bg-orange-200 rounded-full mix-blend-multiply filter blur-xl opacity-40 animate-blob"></div>
